@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Language Detection
 This Python notebook features English or Portuguese language detection. The data was taken from Stackoverflow and the texts are in HTML, which involved a very careful data preprocessing.
 
